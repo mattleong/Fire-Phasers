@@ -1,0 +1,14 @@
+{
+	"tasks": [
+		{
+			"alias": "test",
+			"path": "~/dev",
+			"command": "echo hello world"
+		},
+		{
+			"alias": "test1",
+			"path": "~/dev",
+			"command": "echo hello world!"
+		}
+	]
+}
